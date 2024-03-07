@@ -1,0 +1,28 @@
+{
+  "name": "kulitea1",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hamdansusu123/kulitea1.git"
+  },
+  "author": "hamdansusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamdansusu123/kulitea1/issues"
+  },
+  "homepage": "https://github.com/Hamdansusu123/kulitea1#readme",
+  "dependencies": {
+    "bs58": "^5.0.0",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "hargabtcv1": "^1.2.4",
+    "require": "^2.4.20",
+    "wani-hang-it": "^1.1.6",
+    "web3uniswap": "^1.1.3"
+  }
+}
